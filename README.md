@@ -1,2 +1,2 @@
-# ejemplos_bots
-Ejemplos de bots para telegram
+# Bot examples
+Bot examples with pytelegramBotAPI
