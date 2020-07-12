@@ -28,7 +28,7 @@ def tic_tac():
                 bot.send_message(chat_id, "Hello! How are you?")
 
         #Check if it is 12:00:00; if it is true sends the message
-        if this_moment.hour == 21 and this_moment.minute == 30 and this_moment.second == 0:
+        if this_moment.hour == 12 and this_moment.minute == 0 and this_moment.second == 0:
             if chat_id:
                 bot.send_message(chat_id, "It is the noon!")
 
