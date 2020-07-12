@@ -5,9 +5,7 @@
 
 import telebot
 import time, datetime
-import threading
-
-import db_functions
+import threading 
 
 bot = telebot.TeleBot('TOKEN')
 
